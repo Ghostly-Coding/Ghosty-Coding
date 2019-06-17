@@ -1,4 +1,6 @@
 // Ghostly Coding
+// Channel: https://www.youtube.com/channel/UCizvLWj2bKUPjM-eK9vbRiQ?
+// Video: https://youtu.be/tDm4z8iEcSA
 var canvas = document.getElementById("canvas"),
 ctx = canvas.getContext("2d"),
 width = canvas.width = window.innerWidth - 20,
