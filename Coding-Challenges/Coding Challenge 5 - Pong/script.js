@@ -1,3 +1,6 @@
+// Ghostly Coding
+// Channel: https://www.youtube.com/channel/UCizvLWj2bKUPjM-eK9vbRiQ?
+// Video: https://youtu.be/P4Oq1POv2HU
 var canvas = document.getElementById('canvas'),
 ctx = canvas.getContext('2d'),
 width = canvas.width = 1000,
