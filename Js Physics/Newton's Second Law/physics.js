@@ -3,7 +3,7 @@ function rectMass(unitMass,area){
 }
 
 function circMass(unitMass,radius){
-	return (unitMass * (radius * Math.PI)) / 10;
+	return (unitMass * (radius * radius * Math.PI)) / 10;
 }
 
 function calcAccel(force,mass){
