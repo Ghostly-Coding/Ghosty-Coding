@@ -1,3 +1,7 @@
+# Ghostly Coding -->
+# Channel: https://www.youtube.com/channel/UCizvLWj2bKUPjM-eK9vbRiQ? -->
+# Video: https://youtu.be/p4xCb_9YyIA -->
+
 import pygame, sys, random
 pygame.init()
 
