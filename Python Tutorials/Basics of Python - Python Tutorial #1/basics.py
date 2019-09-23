@@ -25,4 +25,4 @@ print(hi)
 # or if on windows and you just installed python
 # py basics.py
 # or
-# C:\Windows\python.exe basics.py
+# C:\Windows\py.exe basics.py
